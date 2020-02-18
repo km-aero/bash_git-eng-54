@@ -2,7 +2,15 @@
 
 Hello there this is some text.
 
-random stuff.
-thanks mate
+# Markdown
 
-init blud
+
+# Bash
+
+
+# Git
+- basic commands
+- .gitignore
+- ssh keys and
+
+# Github
